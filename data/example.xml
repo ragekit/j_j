@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<scenes>
+  <scene>
+    <content type="image or video" path="path/to/file.jpg" xPos="353.0" yPos="267.0" scale="0.93000007"/>
+  </scene>
+</scenes>
